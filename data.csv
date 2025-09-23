@@ -1,0 +1,115 @@
+User ID,Phone Number,First Name,Last Name,District,Taluka,Crop Name,Scan Date,Reward Phone Number,Transaction Number,Transaction Status,Transaction Notes,Video Stats,Quiz Response,Reward Amount,Scanning Source
+215,9.19586E+11,Periyasamy ,Arumugam ,Salem,Thalaivasal,maize,22/09/25,9585895325,TRAREF00087424029,SUCCESS,payment processed,52,option2,10,Crop advisor/Filed agents
+213,9.17549E+11,Rajul,N,Namakkal,Rasipuram,maize,22/09/25,7548890723,TRAREF00087409899,SUCCESS,payment processed,54,option2,10,retailers
+211,9.1734E+11,Ranjith Kumar ,M,Salem,Attur,maize,22/09/25,7373943640,TRAREF00087408934,SUCCESS,payment processed,52,option2,10,Crop advisor/Filed agents
+210,9.18826E+11,Karthikeyan ,S,Namakkal,Rasipuram,maize,22/09/25,8825889897,TRAREF00087410167,SUCCESS,payment processed,50,option2,10,Crop advisor/Filed agents
+209,9.19995E+11,Kumar,Kumar,Dharmapuri,Dharmapuri,maize,22/09/25,8838000615,,,,63,option2,0,Crop advisor/Filed agents
+208,9.19025E+11,Harish ,Kumar,Dharmapuri,Dharmapuri,paddy,22/09/25,9025335965,TRAREF00087404666,SUCCESS,payment processed,82,option1,10,Crop advisor/Filed agents
+207,9.18838E+11,aravind,roman,Dharmapuri,Pennagaram,maize,22/09/25,8838000615,TRAREF00087404589,SUCCESS,payment processed,55,option2,10,Crop advisor/Filed agents
+205,9.18939E+11,Hari,Haran,Namakkal,Paramathi-Velur,banana,22/09/25,8939154024,TRAREF00087400636,SUCCESS,payment processed,53,option4,10,Crop advisor/Filed agents
+204,9.16379E+11,Sasi,Kumar,Namakkal,Paramathi-Velur,other,22/09/25,6379146818,TRAREF00087400824,SUCCESS,payment processed,52,option4,10,Crop advisor/Filed agents
+203,9.17867E+11,K,Surya,Salem,Gangavalli,maize,22/09/25,7867046105,TRAREF00087395536,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+202,9.16384E+11,Kathirvel,Kalimuthu,Salem,Thalaivasal,maize,22/09/25,6383894533,TRAREF00087395878,SUCCESS,payment processed,99,option2,10,Crop advisor/Filed agents
+201,9.1979E+11,SEVA,Bharathi ,Salem,Attur,maize,22/09/25,9790084832,TRAREF00087391172,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+200,9.1887E+11,Thangaraj ,S,Salem,Thalaivasal,maize,22/09/25,8870231926,TRAREF00087387429,SUCCESS,payment processed,80,option2,10,Crop advisor/Filed agents
+199,9.19345E+11,Vallarasu ,Vallarasu. E,Salem,Gangavalli,maize,22/09/25,9345462323,TRAREF00087386946,SUCCESS,payment processed,55,option2,10,Crop advisor/Filed agents
+198,9.19792E+11,Viji,A,Tirupattur,Tirupattur,paddy,21/09/25,,,,,77,,0,retailers
+197,9.1897E+11,Shivu,K,Kallakurichi,Kallakkurichi,maize,21/09/25,,,,,79,option2,0,retailers
+193,9.19343E+11,Praveen,A,Cuddalore,Veppur,maize,21/09/25,9342916661,TRAREF00087324236,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+192,9.16382E+11,Bavani,Bavani,Cuddalore,Veppur,maize,21/09/25,6382165272,TRAREF00087323847,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+191,9.19345E+11,M dhinesh ,M dhinesh ,Cuddalore,Veppur,maize,21/09/25,9344670712,TRAREF00087323838,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+190,9.18779E+11,Yogesh,yogesh,Cuddalore,Veppur,maize,21/09/25,8778513861,TRAREF00087323868,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+189,9.1861E+11,Suresh,S,Salem,Thalaivasal,maize,21/09/25,8610204483,TRAREF00087318251,SUCCESS,payment processed,75,option2,10,Crop advisor/Filed agents
+188,9.17825E+11,Ajay,R,Salem,Gangavalli,maize,21/09/25,,,,,100,option2,0,Crop advisor/Filed agents
+187,9.18087E+11,shrikanth,reddy,Coimbatore,Kinathukadavu,"pulses,paddy",20/09/25,8087080121,TRAREF00087323807,SUCCESS,payment processed,89,option3,10,retailers
+186,9.18839E+11,Gowtham,K,Salem,Thalaivasal,maize,20/09/25,8838533025,TRAREF00087308462,FAILED,Insufficient Balance,52,option1,0,Crop advisor/Filed agents
+185,9.19343E+11,Amuthan,Amuthan,Salem,Thalaivasal,maize,20/09/25,9342750933,TRAREF00087318374,SUCCESS,payment processed,53,option2,10,Crop advisor/Filed agents
+184,9.18668E+11,VIDUTHALAI VALAVAN ,R,Salem,Gangavalli,maize,20/09/25,8668036277,TRAREF00087304061,FAILED,Insufficient Balance,87,option1,0,Crop advisor/Filed agents
+183,9.1979E+11,Vignesh ,Vignesh ,Dharmapuri,Dharmapuri,"maize,paddy",20/09/25,9789785063,TRAREF00087303878,FAILED,Insufficient Balance,95,option2,0,Crop advisor/Filed agents
+180,9.1979E+11,P.Murugan,P.Murugan,Cuddalore,Panruti,maize,20/09/25,9790414266,TRAREF00087304256,FAILED,Insufficient Balance,71,option2,0,Crop advisor/Filed agents
+179,9.1966E+11,Sabarinathan,A,Dharmapuri,Karimangalam,maize,20/09/25,9659908224,TRAREF00087303786,FAILED,Insufficient Balance,100,option2,0,Crop advisor/Filed agents
+178,9.18098E+11,Naveen,M,Salem,Gangavalli,maize,20/09/25,8098245863,TRAREF00087302592,FAILED,Insufficient Balance,100,option2,0,Crop advisor/Filed agents
+177,9.19346E+11,Navenn ,Kumar,Tirupattur,Tirupattur,"maize,paddy",20/09/25,9345864412,TRAREF00087292037,FAILED,Insufficient Balance,76,option2,0,retailers
+176,9.1701E+11,Soundar,L,Tiruvannamalai,Polur,maize,20/09/25,8675483463,,,,56,option2,0,Crop advisor/Filed agents
+175,9.18609E+11,Nallathambi ,P,Namakkal,Sendamangalam,maize,20/09/25,8608920687,TRAREF00087292010,FAILED,Insufficient Balance,100,option2,0,retailers
+174,9.19025E+11,Srikanth ,A,Tiruvannamalai,Kilpennathur,maize,20/09/25,9025103461,TRAREF00087291882,FAILED,Insufficient Balance,59,option2,0,Crop advisor/Filed agents
+173,9.18533E+11,Sangeethakumar ,R,Tiruvannamalai,Kilpennathur,maize,20/09/25,8533059943,TRAREF00087291666,SUCCESS,payment processed,52,option2,10,retailers
+172,9.19994E+11,Vettri ,Selvan,Tiruvannamalai,Kalasapakkam,"maize,paddy",20/09/25,9994330936,TRAREF00087291635,SUCCESS,payment processed,51,option2,10,retailers
+171,9.18675E+11,Soundar,L,Tiruvannamalai,Polur,maize,20/09/25,8675483463,TRAREF00087291740,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+170,9.19787E+11,P Ram,Moorthi ,Kallakurichi,Kallakkurichi,maize,20/09/25,9786771197,TRAREF00087292183,FAILED,Insufficient Balance,53,option2,0,Crop advisor/Filed agents
+168,9.18668E+11,KAVIYARASU,Govindaraj,Dharmapuri,Pappireddipatti,maize,20/09/25,8667740852,TRAREF00087282045,SUCCESS,payment processed,59,option2,10,Crop advisor/Filed agents
+167,9.1936E+11,Mani,Kandan,Krishnagiri,Uthangarai,paddy,20/09/25,9360348823,TRAREF00087282105,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+166,9.16383E+11,Nhijandhan ,K,Dharmapuri,Pappireddipatti,"paddy,maize",20/09/25,6382878727,TRAREF00087281894,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+164,9.19096E+11,Bahrathiraja,G,Dharmapuri,Harur,maize,20/09/25,9095665233,TRAREF00087279569,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+162,9.19752E+11,jeyabal,k,Perambalur,Veppanthattai,maize,19/09/25,9751658064,TRAREF00087260242,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+161,9.18884E+11,Ajith ,Kumar ,Kallakurichi,Chinnasalem,maize,19/09/25,8883615443,TRAREF00087250225,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+160,9.18611E+11,Selvaraj ,THANGAVEL,Kallakurichi,Kallakkurichi,maize,19/09/25,8610542667,TRAREF00087250007,SUCCESS,payment processed,56,option2,10,Crop advisor/Filed agents
+159,9.16383E+11,K. Elumalai ,Kannan ,Kallakurichi,Sankarapuram,maize,19/09/25,6383276973,TRAREF00087247414,SUCCESS,payment processed,85,option2,10,Crop advisor/Filed agents
+158,9.19499E+11,Aravind kumar ,R,Salem,Gangavalli,maize,19/09/25,9499011341,TRAREF00087241519,SUCCESS,payment processed,55,option2,10,Crop advisor/Filed agents
+157,9.18509E+11,Murugan ,Murugan ,Viluppuram,Viluppuram,maize,19/09/25,9842806251,,,,54,option3,0,Crop advisor/Filed agents
+155,9.18683E+11,Devaraj S ,S,Namakkal,Sendamangalam,vegetables,19/09/25,8015555526,TRAREF00087241382,SUCCESS,payment processed,100,option3,10,Crop advisor/Filed agents
+154,9.19843E+11,Vadivel ,Murugan ,Kallakurichi,Chinnasalem,maize,19/09/25,9842806251,TRAREF00087240867,SUCCESS,payment processed,67,option2,10,Crop advisor/Filed agents
+152,9.1887E+11,Bharathi,S,Kallakurichi,Chinnasalem,maize,19/09/25,8870487260,TRAREF00087240648,SUCCESS,payment processed,52,option2,10,Crop advisor/Filed agents
+151,9.19865E+11,அன்பழகன் ,R,Namakkal,Sendamangalam,maize,19/09/25,9865058940,TRAREF00087240525,SUCCESS,payment processed,71,option2,10,Crop advisor/Filed agents
+150,9.17306E+11,Muthusamy,Selvaraj,Salem,Thalaivasal,maize,19/09/25,7305848874,TRAREF00087240238,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+149,9.19678E+11,VIJAYAkUMAR ,Vengatesan ,Cuddalore,Veppur,maize,19/09/25,9677784506,TRAREF00087239677,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+148,9.19151E+11,Niranjana,Kasi,Viluppuram,Gingee,maize,19/09/25,9150722796,TRAREF00087238636,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+147,9.16386E+11,NITHISWARAN,K,Salem,Thalaivasal,maize,19/09/25,6385887738,TRAREF00087262155,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+146,9.183E+11,Kumar,K,Dharmapuri,Pennagaram,maize,19/09/25,9360668364,,,,82,option2,0,Crop advisor/Filed agents
+145,9.18248E+11,Senthil,U p,Salem,Attur,maize,19/09/25,8248097340,TRAREF00087237852,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+144,9.18883E+11,Arulmani ,R,Kallakurichi,Chinnasalem,maize,19/09/25,8883089141,TRAREF00087237499,SUCCESS,payment processed,59,option2,10,Crop advisor/Filed agents
+143,9.18532E+11,Periyasamy ,C,Salem,Thalaivasal,maize,19/09/25,8531875604,TRAREF00087237454,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+142,9.19048E+11,Ponnusamy ,S ,Salem,Gangavalli,maize,19/09/25,9047971850,TRAREF00087237240,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+141,9.19629E+11,sureshk,r,Salem,Gangavalli,maize,19/09/25,9629497678,TRAREF00087237173,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+140,9.19501E+11,RAJESH,RAJESH,Salem,Gangavalli,maize,19/09/25,9500554170,TRAREF00087237073,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+139,9.19384E+11,Chandru ,Chandru,Cuddalore,Veppur,maize,19/09/25,9384273308,TRAREF00087237064,SUCCESS,payment processed,53,option2,10,Crop advisor/Filed agents
+137,9.19361E+11,Venkat,Raman,Viluppuram,Thiruvennainallur,maize,19/09/25,9360668364,TRAREF00087236133,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+136,9.19689E+11,Siva,J,Salem,Gangavalli,maize,19/09/25,9688566356,TRAREF00087235854,SUCCESS,payment processed,56,option2,10,Crop advisor/Filed agents
+134,9.19159E+11,Ravi,P,Salem,Gangavalli,maize,19/09/25,9159313490,TRAREF00087235865,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+133,9.17868E+11,Nithya,V,Namakkal,Sendamangalam,maize,19/09/25,7867943994,TRAREF00087235647,SUCCESS,payment processed,79,option2,10,Crop advisor/Filed agents
+131,9.18072E+11,Kaviarasan.k,Kavi,Salem,Salem,maize,19/09/25,8072222425,TRAREF00087234803,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+130,9.19689E+11,Elanchezhiyan,M,Salem,Salem,maize,19/09/25,9688743863,TRAREF00087234642,SUCCESS,payment processed,63,option2,10,Crop advisor/Filed agents
+129,9.19444E+11,Nandhagopal,A,Dharmapuri,Nallampalli,maize,19/09/25,9444112104,TRAREF00087234345,SUCCESS,payment processed,59,option2,10,Crop advisor/Filed agents
+128,9.16381E+11,SURENDHAR ,R,Salem,Thalaivasal,maize,19/09/25,6380511654,TRAREF00087234520,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+127,9.1861E+11,Sivaranjani,S,Cuddalore,Veppur,maize,19/09/25,8610445110,TRAREF00087233855,SUCCESS,payment processed,55,option2,10,Crop advisor/Filed agents
+126,9.19489E+11,Yokesh,N,Nagapattinam,Nagapattinam,maize,19/09/25,9489008511,TRAREF00087233849,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+125,9.16384E+11,Murali,S,Salem,Gangavalli,maize,19/09/25,,,,,54,option2,0,Crop advisor/Filed agents
+124,9.19342E+11,Ponnalagan ,P,Salem,Attur,maize,19/09/25,9342159097,TRAREF00087232489,SUCCESS,payment processed,52,option2,10,Crop advisor/Filed agents
+123,9.19443E+11,Murali,Murali.M,Namakkal,Rasipuram,maize,19/09/25,9442738820,TRAREF00087231533,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+122,9.19787E+11,M. Raja,King,Salem,Attur,maize,19/09/25,9786721955,TRAREF00087227942,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+121,9.19601E+11,முருகேசன் ,P,Salem,Attur,maize,19/09/25,9600518101,TRAREF00087226139,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+120,9.1949E+11,இளையராஜா ,க,Namakkal,Sendamangalam,maize,19/09/25,9489722307,TRAREF00087225970,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+119,9.19787E+11,விஸ்வநாதன்,ஜீ ,Namakkal,Sendamangalam,maize,19/09/25,9787324714,TRAREF00087224627,SUCCESS,payment processed,53,option4,10,Crop advisor/Filed agents
+117,9.18073E+11,K.Gowtham,K.Gowtham,Salem,Thalaivasal,maize,19/09/25,8072794519,TRAREF00087307805,FAILED,Insufficient Balance,100,option2,0,Crop advisor/Filed agents
+116,9.19626E+11,Sakthivel ,A,Salem,Gangavalli,maize,19/09/25,9626454723,TRAREF00087223557,SUCCESS,payment processed,55,option2,10,Crop advisor/Filed agents
+115,9.19044E+11,Arivalagan ,A,Salem,Gangavalli,maize,19/09/25,9043533746,TRAREF00087223240,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+114,9.19942E+11,மணி,அ,Salem,Gangavalli,maize,19/09/25,9942498912,TRAREF00087222679,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+113,9.18974E+11,Sathishkumar,V,Salem,Gangavalli,maize,19/09/25,8973955143,TRAREF00087222352,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+112,9.18098E+11,Kaviyarasan,S,Salem,Gangavalli,maize,19/09/25,8098328640,TRAREF00087221562,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+111,9.19442E+11,Velusamy ,K,Namakkal,Sendamangalam,maize,19/09/25,9442253721,TRAREF00087221396,SUCCESS,payment processed,73,option3,10,Crop advisor/Filed agents
+110,9.19792E+11,Nallasivam,N,Namakkal,Sendamangalam,maize,19/09/25,9791810455,TRAREF00087221264,SUCCESS,payment processed,63,option2,10,Crop advisor/Filed agents
+108,9.19386E+11,Bharathi ,N,Namakkal,Sendamangalam,maize,18/09/25,9385852103,TRAREF00087214459,SUCCESS,payment processed,55,option2,10,Crop advisor/Filed agents
+107,9.19626E+11,Suresh ,Suresh Kannan,Salem,Thalaivasal,maize,18/09/25,9626136066,TRAREF00087211453,SUCCESS,payment processed,69,option1,10,Crop advisor/Filed agents
+106,9.19843E+11,Suresh ,Sureshk,Salem,Thalaivasal,maize,18/09/25,9843408515,TRAREF00087211056,FAILED,Failed.Unable to Process Request|The beneficiary account is blocked or frozen,54,option2,0,Crop advisor/Filed agents
+105,9.18122E+11,Selladurai,R,Salem,Gangavalli,maize,18/09/25,9843667975,,,,51,option2,0,Crop advisor/Filed agents
+104,9.17449E+11,Rajavel ,Vel,Salem,Thalaivasal,maize,18/09/25,7448530611,TRAREF00087207714,SUCCESS,payment processed,69,option2,10,Crop advisor/Filed agents
+103,9.19343E+11,Gayathri,N,Salem,Attur,maize,18/09/25,,,,,51,option2,0,Crop advisor/Filed agents
+100,9.19977E+11,Baby,Pu,Dharmapuri,Nallampalli,maize,18/09/25,9787933126,,,,51,option2,0,Crop advisor/Filed agents
+98,9.19994E+11,kannan,M,Dharmapuri,Palakkodu,maize,18/09/25,9994393265,TRAREF00087205055,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+97,9.19788E+11,NITHEESH ,V,Namakkal,Sendamangalam,maize,18/09/25,9787933126,TRAREF00087204753,SUCCESS,payment processed,63,option2,10,Crop advisor/Filed agents
+95,9.19841E+11,Shankar,S,Salem,Thalaivasal,maize,18/09/25,9840630088,TRAREF00087204464,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+94,9.19844E+11,Poovizhiyan,S,Salem,Gangavalli,maize,18/09/25,9843667975,TRAREF00087204042,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+93,9.19159E+11,Idhya,Bharathi,Salem,Attur,maize,18/09/25,9159005908,TRAREF00087228584,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+92,9.17604E+11,Naveen ,M,Salem,Vazhapadi,maize,18/09/25,8270263500,TRAREF00087203166,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+90,9.18778E+11,viswanathan,G,Dharmapuri,Pappireddipatti,"maize,paddy,vegetables,banana,pulses",18/09/25,8489627136,TRAREF00087202940,SUCCESS,payment processed,51,option2,10,Crop advisor/Filed agents
+89,9.19945E+11,Yuvaraj,K,Cuddalore,Veppur,maize,18/09/25,9944949810,,,,51,option2,0,Crop advisor/Filed agents
+88,9.17867E+11,Janagar,S,Cuddalore,Veppur,maize,18/09/25,7867061884,TRAREF00087233227,SUCCESS,payment processed,53,option2,10,Crop advisor/Filed agents
+87,9.16382E+11,Vignesh,P,Salem,Attur,maize,18/09/25,6381614317,TRAREF00087199846,SUCCESS,payment processed,100,option2,10,Crop advisor/Filed agents
+85,9.19843E+11,Nellaiappan ,subbiah,Tiruchirappalli,Tiruchirappalli East,maize,18/09/25,9842732136,TRAREF00087198524,SUCCESS,payment processed,100,option2,10,retailers
+84,9.17204E+11,Tomy,Maximin,Erode,Modakkurichi,maize,18/09/25,7204051925,TRAREF00087198471,SUCCESS,payment processed,100,option2,10,retailers
+83,9.17018E+11,Test,Tessst,Cuddalore,Cuddalore,paddy,18/09/25,8894364834,,,,50,option3,0,Crop advisor/Filed agents
+81,9.19946E+11,KRITHIKA,SUBRAMANIAN,Dindigul,Kodaikanal,banana,18/09/25,9945651092,TRAREF00087192474,SUCCESS,payment processed,50,option1,10,Crop advisor/Filed agents
+80,9.17018E+11,Testt,Test,Cuddalore,Cuddalore,maize,18/09/25,8894364834,TRAREF00087191463,SUCCESS,payment processed,50,option3,10,Crop advisor/Filed agents
+79,9.17018E+11,Test,Resss,Chennai,Ambattur,pulses,18/09/25,9882508075,,,,50,option3,0,retailers
+77,9.18894E+11,Test ,Test5,Coimbatore,Coimbatore North,paddy,18/09/25,9882508075,TRAREF00087191102,SUCCESS,payment processed,50,option3,10,retailers
+72,9.19225E+11,shrutika,pobatti,Cuddalore,Cuddalore,"pulses,banana",17/09/25,9225064238,TRAREF00087160791,SUCCESS,payment processed,50,option1,10,retailers
